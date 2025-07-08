@@ -1,0 +1,14 @@
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .eye-icon {
+            position: absolute;
+            top: 50%;
+            right: 1rem;
+            transform: translateY(-50%);
+            cursor: pointer;
+            color: #9ca3af; 
+        }
+        .eye-icon:hover {
+            color: #e5e7eb; 
+        }
