@@ -1,3 +1,3 @@
 ## 🌐 Live Demo
 
-Visit: [https://0xmarvul.github.io](https://0xmarvul.github.io/Portfolio_/)
+Visit: [(https://0xmarvul.github.io/PasswordChecker/)](https://0xmarvul.github.io/PasswordChecker/)
